@@ -8,9 +8,6 @@ AI Crowd Sense is an intelligent crowd monitoring and analysis system that uses 
 
 - 👥 Real-time people detection
 - 📊 Crowd density estimation
-- 🚨 Overcrowding alerts
-- 🎥 Live webcam and video support
-- 📈 Analytics dashboard
 - ⚡ Fast and accurate AI-based detection
 - 📱 User-friendly interface
 
@@ -25,7 +22,8 @@ AI Crowd Sense is an intelligent crowd monitoring and analysis system that uses 
 
 ### Backend
 - Python
-
+  
+---
 
 ## 📂 Project Structure
 
@@ -118,10 +116,7 @@ http://127.0.0.1:5000/
 
 Developed by:
 
-- JayaLakshmi Pathi
-- Team AI Crowd Sense
-
----
+- Jayalakshmi Pathi & Team
 
 ## 📄 License
 
@@ -131,17 +126,6 @@ This project is developed for educational and research purposes.
 
 ## ⭐ Acknowledgements
 
-- OpenCV
-- YOLO
-- Flask
 - Python Community
 
 ---
-
-## 📬 Contact
-
-For suggestions or collaborations, feel free to contact us.
-
-📧 Email: your-email@example.com
-
-⭐ If you like this project, don't forget to star the repository!
