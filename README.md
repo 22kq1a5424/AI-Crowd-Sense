@@ -25,17 +25,7 @@ AI Crowd Sense is an intelligent crowd monitoring and analysis system that uses 
 
 ### Backend
 - Python
-- Flask
 
-### AI & Computer Vision
-- OpenCV
-- YOLO (You Only Look Once)
-- NumPy
-
-### Database
-- MySQL / SQLite (Optional)
-
----
 
 ## 📂 Project Structure
 
